@@ -32,6 +32,7 @@
 
 .containerText h1 {
 	color: white;
+	text-decoration: none;
 }
 
 .containerText a h1:hover {
