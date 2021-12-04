@@ -32,6 +32,9 @@
 
 .containerText h1 {
 	color: white;
+}
+
+.containerText a {
 	text-decoration: none;
 }
 
